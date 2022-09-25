@@ -1,0 +1,30 @@
+body {
+  background-color: hsl(210, 0%, 88%);
+}
+
+.item-image {
+  border-radius: 50%;
+  height: 80px;
+  margin-right: 8px;
+}
+
+.item {
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  padding: 18px;
+  margin: 10px;
+  width: 384px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.item-name {
+  font-weight: 700; 
+  font-size: 16px;
+}
+
+.item-spieces {
+  color: hsl(201, 23%, 34%);
+  font-size: 16px;
+}
